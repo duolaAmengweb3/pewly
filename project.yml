@@ -14,7 +14,7 @@ targets:
   Pewly:
     type: application
     platform: iOS
-    sources: [Sources, Resources/Pewly.storekit, Resources/Assets.xcassets]
+    sources: [Sources, Resources/Pewly.storekit, Resources/Assets.xcassets, Resources/PrivacyInfo.xcprivacy]
     dependencies:
       - target: PewlyWidget
     settings:

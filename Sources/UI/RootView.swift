@@ -6,6 +6,7 @@ struct RootView: View {
     @State private var demoEdit = ProcessInfo.processInfo.arguments.contains("-demoEdit")
     @State private var demoRecord = ProcessInfo.processInfo.arguments.contains("-demoRecord")
     @State private var demoPaywall = ProcessInfo.processInfo.arguments.contains("-demoPaywall")
+    @State private var demoDetail = ProcessInfo.processInfo.arguments.contains("-demoDetail")
 
     var body: some View {
         TabView(selection: $tab) {
@@ -17,6 +18,9 @@ struct RootView: View {
             NoteEditorView(note: Store.sampleNotes[0], isNew: true, onSave: { _ in demoEdit = false }, onClose: { demoEdit = false })
         }
         .fullScreenCover(isPresented: $demoRecord) { RecordFlowView() }
+        .fullScreenCover(isPresented: $demoDetail) {
+            NavigationStack { NoteDetailView(note: Store.sampleNotes[0]) }
+        }
         .sheet(isPresented: $demoPaywall) { PaywallView() }
     }
 }

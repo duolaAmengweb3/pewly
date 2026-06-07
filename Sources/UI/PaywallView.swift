@@ -47,8 +47,8 @@ struct PaywallView: View {
                 }.buttonStyle(PrimaryButtonStyle()).disabled(pro.purchasing)
                 HStack(spacing: 16) {
                     Button("Restore") { Task { await pro.restore(); if pro.isPro { dismiss() } } }
-                    Link("Terms", destination: URL(string: "https://example.com/terms")!)
-                    Link("Privacy", destination: URL(string: "https://example.com/privacy")!)
+                    Link("Terms", destination: URL(string: "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/")!)
+                    Link("Privacy", destination: URL(string: "https://duolaamengweb3.github.io/pewly/privacy.html")!)
                 }.font(.caption).foregroundStyle(Theme.textLow)
             }.padding(.horizontal, 16).padding(.top, 10).padding(.bottom, 8).background(Theme.canvas)
         }
