@@ -1,0 +1,56 @@
+name: Pewly
+options:
+  bundleIdPrefix: com.duolaameng
+  deploymentTarget:
+    iOS: "17.0"
+settings:
+  base:
+    MARKETING_VERSION: "1.0"
+    CURRENT_PROJECT_VERSION: "1"
+    DEVELOPMENT_TEAM: H7DV8ZSZGB
+    SWIFT_VERSION: "5.0"
+    ITSAppUsesNonExemptEncryption: false
+targets:
+  Pewly:
+    type: application
+    platform: iOS
+    sources: [Sources, Resources/Pewly.storekit, Resources/Assets.xcassets]
+    dependencies:
+      - target: PewlyWidget
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.duolaameng.pewly
+        TARGETED_DEVICE_FAMILY: "1"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        CODE_SIGN_ENTITLEMENTS: Pewly.entitlements
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+    scheme:
+      storeKitConfiguration: Resources/Pewly.storekit
+    info:
+      path: Resources/Info.plist
+      properties:
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        UILaunchScreen: {}
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
+        UIUserInterfaceStyle: Light
+        UIBackgroundModes: [audio]
+        NSMicrophoneUsageDescription: "Pewly records the sermon so it can transcribe and organize your notes."
+        NSSpeechRecognitionUsageDescription: "Speech recognition turns the sermon into text on your device."
+  PewlyWidget:
+    type: app-extension
+    platform: iOS
+    sources: [Widget, Sources/Shared]
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.duolaameng.pewly.widget
+        TARGETED_DEVICE_FAMILY: "1"
+        CODE_SIGN_ENTITLEMENTS: PewlyWidget.entitlements
+    info:
+      path: Widget/Info.plist
+      properties:
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        CFBundleDisplayName: Pewly
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.widgetkit-extension
