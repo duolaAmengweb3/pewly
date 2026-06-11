@@ -22,10 +22,6 @@
 	<string>Pewly records the sermon so it can transcribe and organize your notes.</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>Speech recognition turns the sermon into text on your device.</string>
-	<key>UIBackgroundModes</key>
-	<array>
-		<string>audio</string>
-	</array>
 	<key>UILaunchScreen</key>
 	<dict/>
 	<key>UISupportedInterfaceOrientations</key>

@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Pewly' in project 'Pewly'
+➜ Explicit dependency on target 'PewlyWidget' in project 'Pewly'
+Target 'PewlyWidget' in project 'Pewly' (no dependencies)

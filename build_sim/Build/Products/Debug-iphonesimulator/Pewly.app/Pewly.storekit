@@ -1,0 +1,30 @@
+{
+  "identifier" : "PEWLY-SK",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "PEWLYPRO01",
+      "localizations" : [
+        {
+          "description" : "Unlock AI sermon organizing, editing, scripture index, sync and export — one-time purchase.",
+          "displayName" : "Pewly Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.duolaameng.pewly.pro",
+      "referenceName" : "Pewly Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

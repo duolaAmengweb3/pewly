@@ -34,7 +34,6 @@ targets:
         UILaunchScreen: {}
         UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
         UIUserInterfaceStyle: Light
-        UIBackgroundModes: [audio]
         NSMicrophoneUsageDescription: "Pewly records the sermon so it can transcribe and organize your notes."
         NSSpeechRecognitionUsageDescription: "Speech recognition turns the sermon into text on your device."
   PewlyWidget:

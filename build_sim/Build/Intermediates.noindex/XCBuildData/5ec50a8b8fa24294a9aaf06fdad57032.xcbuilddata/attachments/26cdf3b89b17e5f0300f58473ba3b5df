@@ -1,0 +1,238 @@
+{
+  "" : {
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Pewly-master.dia",
+    "emit-module-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Pewly-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Pewly-master-emit-module.dia",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Pewly-master.swiftdeps"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/App/PewlyApp.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyApp.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyApp.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyApp.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyApp.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyApp.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyApp.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyApp.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyApp~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/App/PewlyShortcuts.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyShortcuts.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyShortcuts.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyShortcuts.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyShortcuts.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyShortcuts.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyShortcuts.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyShortcuts.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyShortcuts~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/Core/NotificationService.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotificationService.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotificationService.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotificationService.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotificationService.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotificationService.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotificationService.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotificationService.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotificationService~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/Core/PewlyAPI.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyAPI.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyAPI.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyAPI.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyAPI.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyAPI.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyAPI.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyAPI.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PewlyAPI~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/Core/ProStore.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ProStore.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ProStore.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ProStore.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ProStore.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ProStore.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ProStore.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ProStore.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ProStore~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/Core/SpeechCapture.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SpeechCapture.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SpeechCapture.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SpeechCapture.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SpeechCapture.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SpeechCapture.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SpeechCapture.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SpeechCapture.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SpeechCapture~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/Core/Store.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Store.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Store.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Store.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Store.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Store.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Store.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Store.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Store~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/Core/WidgetPublisher.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetPublisher.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetPublisher.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetPublisher.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetPublisher.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetPublisher.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetPublisher.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetPublisher.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetPublisher~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/Models/Models.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/Shared/WidgetBridge.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetBridge.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetBridge.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetBridge.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetBridge.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetBridge.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetBridge.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetBridge.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/WidgetBridge~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/UI/Components.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Components.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Components.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Components.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Components.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Components.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Components.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Components.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Components~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/UI/NoteDetailView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteDetailView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteDetailView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteDetailView.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteDetailView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteDetailView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteDetailView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteDetailView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteDetailView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/UI/NoteEditorView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteEditorView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteEditorView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteEditorView.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteEditorView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteEditorView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteEditorView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteEditorView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NoteEditorView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/UI/NotesView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotesView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotesView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotesView.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotesView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotesView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotesView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotesView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/NotesView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/UI/OnboardingView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/OnboardingView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/OnboardingView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/OnboardingView.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/OnboardingView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/OnboardingView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/OnboardingView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/OnboardingView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/OnboardingView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/UI/PaywallView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PaywallView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PaywallView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PaywallView.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PaywallView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PaywallView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PaywallView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PaywallView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PaywallView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/UI/PrayerJournalView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PrayerJournalView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PrayerJournalView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PrayerJournalView.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PrayerJournalView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PrayerJournalView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PrayerJournalView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PrayerJournalView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/PrayerJournalView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/UI/RecordFlowView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RecordFlowView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RecordFlowView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RecordFlowView.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RecordFlowView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RecordFlowView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RecordFlowView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RecordFlowView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RecordFlowView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/UI/RootView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RootView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RootView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RootView.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RootView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RootView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RootView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RootView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/RootView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/UI/SettingsView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/UI/ShareCardView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ShareCardView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ShareCardView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ShareCardView.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ShareCardView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ShareCardView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ShareCardView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ShareCardView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/ShareCardView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/Sources/UI/Theme.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Theme.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Theme.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Theme.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Theme.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Theme.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/Theme~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/21_Pewly/PewlyApp/build_sim/Build/Intermediates.noindex/Pewly.build/Debug-iphonesimulator/Pewly.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

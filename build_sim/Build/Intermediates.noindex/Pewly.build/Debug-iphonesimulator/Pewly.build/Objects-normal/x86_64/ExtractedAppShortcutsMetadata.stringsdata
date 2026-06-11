@@ -1,0 +1,20 @@
+{
+  "version" : 1,
+  "tables" : {
+    "AppShortcuts" : [
+      {
+        "location" : {
+          "startingColumn" : 0,
+          "startingLine" : 18
+        },
+        "key" : "Record a sermon with ${applicationName}",
+        "values" : [
+          "Record a sermon with ${applicationName}",
+          "Take sermon notes in ${applicationName}",
+          "Start ${applicationName} recording"
+        ]
+      }
+    ]
+  },
+  "source" : "\/Users\/duolaameng\/Desktop\/applestore\/21_Pewly\/PewlyApp\/Sources\/App\/PewlyShortcuts.swift"
+}

@@ -24,6 +24,7 @@ final class SpeechCapture: ObservableObject {
     private static let maxConsecutiveErrors = 3
     private var interrupted = false
     private var interruptionObserver: NSObjectProtocol?
+    private var backgroundObserver: NSObjectProtocol?
 
     func requestAuth() async {
         let speech = await withCheckedContinuation { (c: CheckedContinuation<Bool, Never>) in
@@ -40,7 +41,7 @@ final class SpeechCapture: ObservableObject {
         transcript = ""; committed = ""; segmentPartial = ""; consecutiveErrors = 0; interrupted = false
         do {
             try startEngine(); isRecording = true; observeInterruptions(); beginSegment()
-            UIApplication.shared.isIdleTimerDisabled = true   // 整篇讲道屏幕不锁(配合后台音频模式)
+            UIApplication.shared.isIdleTimerDisabled = true   // keep the screen awake so a full sermon records in the foreground without auto-lock
         } catch { isRecording = false }
     }
 
@@ -111,8 +112,16 @@ final class SpeechCapture: ObservableObject {
         interruptionObserver = NotificationCenter.default.addObserver(forName: AVAudioSession.interruptionNotification, object: nil, queue: .main) { [weak self] note in
             MainActor.assumeIsolated { self?.handleInterruption(note) }
         }
+        // No background-audio mode: recording can't continue once suspended, so finalize cleanly
+        // when the app leaves the foreground rather than letting capture silently die.
+        backgroundObserver = NotificationCenter.default.addObserver(forName: UIApplication.didEnterBackgroundNotification, object: nil, queue: .main) { [weak self] _ in
+            MainActor.assumeIsolated { if self?.isRecording == true { self?.stop() } }
+        }
     }
-    private func removeInterruptionObserver() { if let o = interruptionObserver { NotificationCenter.default.removeObserver(o) }; interruptionObserver = nil }
+    private func removeInterruptionObserver() {
+        if let o = interruptionObserver { NotificationCenter.default.removeObserver(o) }; interruptionObserver = nil
+        if let o = backgroundObserver { NotificationCenter.default.removeObserver(o) }; backgroundObserver = nil
+    }
     private func handleInterruption(_ note: Notification) {
         guard isRecording, let raw = note.userInfo?[AVAudioSessionInterruptionTypeKey] as? UInt,
               let type = AVAudioSession.InterruptionType(rawValue: raw) else { return }
